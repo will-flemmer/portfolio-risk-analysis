@@ -8,6 +8,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pytest = "^8.1.1"
+yfinance = "^0.2.37"
+matplotlib = "^3.8.4"
+pandas = "^2.2.1"
+numpy = "^1.26.4"
 
 
 [build-system]
