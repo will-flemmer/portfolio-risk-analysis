@@ -1,0 +1,3 @@
+#!/bin/sh
+
+poetry run python portfolio_risk_analysis/main.py
